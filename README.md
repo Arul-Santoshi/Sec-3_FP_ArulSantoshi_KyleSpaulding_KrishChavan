@@ -32,7 +32,7 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Authors
 
-Arul Santoshi, Penn State Student- ajs10266@psu.edu
-Kyle Spaulding, Penn State Student - kbs6178@psu.edu
-Krish Chavan, Penn State Student - ksc5629@psu.edu
+Arul Santoshi, Penn State Student- ajs10266@psu.edu\n
+Kyle Spaulding, Penn State Student - kbs6178@psu.edu\n
+Krish Chavan, Penn State Student - ksc5629@psu.edu\n
 Feel free to contact us with any questions either via email or GitHub
