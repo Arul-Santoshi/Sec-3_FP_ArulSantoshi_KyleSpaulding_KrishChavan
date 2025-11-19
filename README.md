@@ -16,7 +16,14 @@ Be sure to list where you got any data used within the project. Be sure to ackno
 
 ## Current Plan
 
-Provide some information about what you intend to doe with the project. You can additionally refer the visitor to your detailed plan document.
+The analysis will proceed through several phases:
+
+1. **Data Wrangling**: Import and tidy both Olympic Medal data over time and GDP by country data over time
+2. **Data Preparation**: Merge Olympic medal counts with GDP data by country and year
+3. **Exploratory Analysis**: Examine distributions, trends over time, and outliers
+4. **Statistical Modeling**: Quantify the relationship between GDP and medal counts using regression analysis
+5. **Comparative Analysis**: Explore medals per capita and medals per GDP dollar to identify high-performing nations
+6. **Visualization**: Create =graphics showing the relationship between economic power and Olympic performance
 
 ## Repo Structure
 
@@ -25,4 +32,7 @@ Use this section to explain the structure of your repo. This should help visitor
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+Arul Santoshi, Penn State Student- ajs10266@psu.edu
+Kyle Spaulding, Penn State Student - kbs6178@psu.edu
+Krish Chavan, Penn State Student - ksc5629@psu.edu
+Feel free to contact us with any questions either via email or GitHub
