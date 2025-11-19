@@ -2,9 +2,9 @@
 
 Write a 1-2 sentences that quickly and clearly convey what your repo is for.
 
-## Overview
+An exploration of the relationship between a country's GDP (Gross Domestic Product) and Olympic medal performance across countries and time.
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This project investigates how a country's economic resources correlate with their success at the Olympics. By combining historical Olympic medal data with historical GDP statistics, we aim to understand whether wealthier nations win more medals, and how this relationship has evolved over different Olympic years. The analysis includes visualizations of medal distributions, GDP comparisons, and statistical modeling to determine the strength of the relationship between a country's wealth and its Olympics Performance
 
 ### Interesting Insight (Optional)
 
